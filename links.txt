@@ -1,0 +1,10 @@
+https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e
+https://www.analyticsvidhya.com/blog/2018/10/mining-online-reviews-topic-modeling-lda/
+https://deepnote.com/@abid/Trip-Advisor-Data-AnalysisML-f6060b39-d76c-4579-9648-a54bc8b5ffb5
+
+# O melhor:
+https://medium.com/analytics-vidhya/predicting-the-ratings-of-reviews-of-a-hotel-using-machine-learning-bd756e6a9b9b
+
+https://github.com/FelipeAvila2/ML-Twitter-public-opinion-analysis
+
+https://www.analyticsvidhya.com/blog/2020/12/understanding-text-classification-in-nlp-with-movie-review-example-example/
